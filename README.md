@@ -1,8 +1,7 @@
 ### Hello! 👋
 I'm a business student that loves to learn. Man of many talents (humble brag): A **self taught designer, programmer and data science enthusiast**. I also love selling people crazy ideas!
 
-- 🔭 I’m currently working on - Fullstack Machine Learning Projects- Hopefully a public website that uses ML for something useful!
-- 🌱 I’m currently learning -  dbt, analytics engineering and making better visualizations!
+- 🌱 I’m currently learning -  dbt, analytics engineering, bayesian statistics, a/b testing and just being a better analyst.
 - ⚡ Fun fact: I have a thing for mechanical keyboards - an obsession really and I'm super funny (at least some times)!
 
 ### Projects I'm proud of! 😁
@@ -18,5 +17,4 @@ I'm a business student that loves to learn. Man of many talents (humble brag): A
 - LinkedIn: https://www.linkedin.com/in/shuvo-saha-shushmoy/
 - HackerRank:: https://www.hackerrank.com/shuvo2 
 - Leetcode: https://leetcode.com/Shuvo-saha/
-- Kaggle: https://www.kaggle.com/shuvovertigo 
 - Tableau Visualizations: https://public.tableau.com/profile/shuvo.saha3090#!/  
