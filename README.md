@@ -12,9 +12,7 @@ I'm a business student that loves to learn. Man of many talents (humble brag): A
 - [Excel and Data Analytics Course](https://skillhubbd.com/courses/basic-to-advanced-excel-and-data-analytics/) - Online course instructor for an edtech platform teaching the basics of Data Analytics, Excel and Power BI
 
 ### Look me up! 🕵️ 
-- Design Portfolio:  https://drive.google.com/open?id=1JGjQD337RtGSr0vAtbuU9WlGFrq3ugzm
 - Publication: https://medium.com/@shuvo_11323
+- Newsletter: https://slightlyinteresting.substack.com/
 - LinkedIn: https://www.linkedin.com/in/shuvo-saha-shushmoy/
-- HackerRank:: https://www.hackerrank.com/shuvo2 
-- Leetcode: https://leetcode.com/Shuvo-saha/
 - Tableau Visualizations: https://public.tableau.com/profile/shuvo.saha3090#!/  
